@@ -4,7 +4,7 @@
 
 ![Border Separator](./assests/borderseperator.gif)
 
-![Featured Image](./assests/loficity.gif)
+![Featured Image](./assests/nightlife.gif)
 
 ![Border Separator](./assests/borderseperator.gif)
 
