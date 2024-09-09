@@ -37,9 +37,8 @@ I am currently working as a Software Engineer at Trusted-IT
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/Oracle%20APEX-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
-  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="Web Services API" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Web%20Services%20API-007ACC?style=for-the-badge&logo=api&logoColor=white" alt="Web Services API" />
   <img src="https://img.shields.io/badge/APEX%20User%20Interfaces-FF6F61?style=for-the-badge&logo=oracle&logoColor=white" alt="APEX User Interfaces" />
   <img src="https://img.shields.io/badge/APEX%20Plugins-6DB33F?style=for-the-badge&logo=oracle&logoColor=white" alt="APEX Plugins" />
 </div>
