@@ -2,27 +2,27 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=24&lines=Software+Engineer)
 
----
+![Border Separator](./assests/borderseperator.gif)
 
 ![Featured Image](./assests/loficity.gif)
 
----
+![Border Separator](./assests/borderseperator.gif)
 
 ## 📝 Summary:
 
 A well-rounded Software Engineer who studied Computer Engineering at Faculty of Engineering - Modern Academy.  
 Interpersonal skills, commitment, and work ethic are three factors describing me. I seek continuous learning & improvement because that’s how I’ll keep my work’s sustainability.
 
----
+
 
 ![Border Separator](./assests/borderseperator.gif)
 
 ### 💼 Current Work
 I am currently working as a Software Engineer at Trusted-IT
 
----
-
 ![Border Separator](./assests/borderseperator.gif)
+
+
 
 ## 🛠 Skills:
 
@@ -44,9 +44,9 @@ I am currently working as a Software Engineer at Trusted-IT
   <img src="https://img.shields.io/badge/APEX%20Plugins-6DB33F?style=for-the-badge&logo=oracle&logoColor=white" alt="APEX Plugins" />
 </div>
 
----
-
 ![Border Separator](./assests/borderseperator.gif)
+
+
 
 ## 📞 Connect With Me:
 
