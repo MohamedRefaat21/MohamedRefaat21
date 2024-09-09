@@ -15,10 +15,14 @@ Interpersonal skills, commitment, and work ethic are three factors describing me
 
 ---
 
+![Border Separator](./assests/borderseperator.gif)
+
 ### 💼 Current Work
 I am currently working as a Software Engineer at Trusted-IT
 
 ---
+
+![Border Separator](./assests/borderseperator.gif)
 
 ## 🛠 Skills:
 
@@ -41,6 +45,8 @@ I am currently working as a Software Engineer at Trusted-IT
 </div>
 
 ---
+
+![Border Separator](./assests/borderseperator.gif)
 
 ## 📞 Connect With Me:
 
