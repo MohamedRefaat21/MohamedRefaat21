@@ -8,7 +8,7 @@
 
 ![Border Separator](./assests/borderseperator.gif)
 
-## 📝 Summary:
+## 📝 Summary
 
 A well-rounded Software Engineer who studied Computer Engineering at Faculty of Engineering - Modern Academy.  
 Interpersonal skills, commitment, and work ethic are three factors describing me. I seek continuous learning & improvement because that’s how I’ll keep my work’s sustainability.
@@ -24,7 +24,7 @@ I am currently working as a Software Engineer at Trusted-IT
 
 
 
-## 🛠 Skills:
+## 🛠 Skills
 
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -48,7 +48,7 @@ I am currently working as a Software Engineer at Trusted-IT
 
 
 
-## 📞 Connect With Me:
+## 📞 Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/mohamed-refaat-41bb191aa/" target="_blank">
